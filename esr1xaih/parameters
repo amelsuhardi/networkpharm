@@ -1,0 +1,7 @@
+Date: Tue 04 Aug 2026 16:12:47 
+Ligand: O2c5c(SC(c1ccc(O)cc1)C2c4ccc(OCCN3CC(C)C(C)C3)cc4)cc(O)cc5
+Method: Vina
+Target: 1xp1prepped.pdb
+Sampling exhaustivity: 6
+Box size: 20 20 20
+Box center: 31.0 -1.0 26.0

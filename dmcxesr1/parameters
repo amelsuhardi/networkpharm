@@ -1,0 +1,7 @@
+Date: Tue 04 Aug 2026 15:50:38 
+Ligand: COC1=C(C=CC(=C1)/C=C/C(=O)CC(=O)/C=C/C2=CC=C(C=C2)O)O
+Method: Vina
+Target: 1xp1prepped.pdb
+Sampling exhaustivity: 6
+Box size: 20 20 20
+Box center: 31.0 -1.0 26.0

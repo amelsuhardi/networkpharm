@@ -1,0 +1,7 @@
+Date: Tue 04 Aug 2026 16:17:03 
+Ligand: O=Cc1ccc(cc1O)CCNCc1ccc(cc1)n1c2nc(ccc2nc1c1cccnc1N)c1ccccc1
+Method: Vina
+Target: prepped8uw7.pdb
+Sampling exhaustivity: 6
+Box size: 20 20 20
+Box center: 14.0 11.0 -34.0
